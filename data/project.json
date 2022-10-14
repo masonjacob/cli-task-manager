@@ -1,9 +1,31 @@
 {
-    "Project": {
-        "About": {
-            "ID": "0",
-            "Name": "Project 1",
-            "Description": "This is a project"
+    "project": {
+        "about": {
+            "id": "0",
+            "name": "Project 1",
+            "description": "This is a project",
+            "inception": "10/11/2022",
+            "deadline" : "10/15/2022",
+            "contributors": [
+                            {"last_name":"Jacob", "first_name":"Mason"}, 
+                            {"last_name":"Smith","first_name":"John"}, 
+                            {"last_name":"Nobody", "first_name":"Mr."}
+            ]
+            
+        },
+
+        "finaces": {
+
+        },
+
+        "plan": {
+
+        },
+
+        "execution": {
+            
         }
+
+
     }
 }
